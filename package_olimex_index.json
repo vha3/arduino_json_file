@@ -4,27 +4,27 @@
     {
       "name":"olimex",
       "maintainer":"Hunter",
-      "websiteURL":"http://www.panstamp.com",
+      "websiteURL":"http://www.panstamp.org/forum/",
       "email":"vha3@cornell.edu",
       "help":
       {
-        "online":"http://www.panstamp.org/forum"
+        "online":"http://www.panstamp.org/forum/"
       },
 
       "platforms":
       [
         {
-          "name":"Olimex CC430F5137 Development Board",
+          "name":"Olimex Development Board",
           "architecture":"msp430",
-          "version":"1.0.8",
-          "category":"Olimex",
-          "url":"http://github.com/vha3/arduino_nrg/archive/master.tar.gz",
-          "archiveFileName":"arduino_nrg-master.tar.gz",
+          "version":"0.1.4",
+          "category":"Hunter",
+          "url":"https://github.com/vha3/arduino_nrg/archive/master.tar.gz",
+          "archiveFileName":"arduino_nrg-master.tar",
           "checksum":"SHA-256:a0a50e166cffecbd0f9bcbd1e3340b36d9cf67500b4970661cea812fab6d42d7",
           "size":"23869440",
           "help":
           {
-            "online":"https://github.com/panStamp/panstamp/wiki"
+            "online":"http://www.panstamp.org/forum/"
           },
           "boards":
           [
