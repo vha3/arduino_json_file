@@ -20,8 +20,8 @@
           "category":"Hunter",
           "url":"https://github.com/vha3/arduino_nrg/archive/master.tar.gz",
           "archiveFileName":"arduino_nrg-master.tar.gz",
-          "checksum":"SHA-256:ccc6040a8707176dc5d5edb153655a0342c931a7267ded137ddea34d4c50f238",
-          "size":"6670073",
+          "checksum":"SHA-256:43f3862442d6e5feca327a95efc0e774da29ba79bfa141c04e042ad7948a8275",
+          "size":"6670095",
           "help":
           {
             "online":"http://www.panstamp.org/forum/"
