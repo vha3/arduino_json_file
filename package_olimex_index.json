@@ -3,9 +3,9 @@
   [
     {
       "name":"Olimex Development Board",
-      "maintainer":"panStamp S.L. fork",
+      "maintainer":"Hunter",
       "websiteURL":"http://www.panstamp.com",
-      "email":"contact@panstamp.com",
+      "email":"vha3@cornell.edu",
       "help":
       {
         "online":"http://www.panstamp.org/forum"
@@ -17,9 +17,9 @@
           "name":"Olimex CC430F5137 Development Board",
           "architecture":"msp430",
           "version":"1.0.8",
-          "category":"Contributed",
+          "category":"Olimex",
           "url":"http://github.com/vha3/arduino_nrg/archive/master.tar.gz",
-          "archiveFileName":"arduino_nrg-master.tar",
+          "archiveFileName":"arduino_nrg-master.tar.gz",
           "checksum":"SHA-256:a0a50e166cffecbd0f9bcbd1e3340b36d9cf67500b4970661cea812fab6d42d7",
           "size":"23869440",
           "help":
@@ -35,17 +35,17 @@
           "toolsDependencies":
           [
             {
-              "packager":"panstamp_nrg",
+              "packager":"olimex",
               "name":"msp430-gcc",
               "version":"4.6.3"
             },
             {
-              "packager":"panstamp_nrg",
+              "packager":"olimex",
               "name":"java-bsl",
               "version":"1.0.0"
             },
             {
-              "packager":"panstamp_nrg",
+              "packager":"olimex",
               "name":"java-gdb",
               "version":"1.0.0"
             }
