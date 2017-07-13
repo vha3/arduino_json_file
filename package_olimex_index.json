@@ -2,7 +2,7 @@
   "packages":
   [
     {
-      "name":"Olimex Development Board",
+      "name":"olimex",
       "maintainer":"Hunter",
       "websiteURL":"http://www.panstamp.com",
       "email":"vha3@cornell.edu",
@@ -35,17 +35,17 @@
           "toolsDependencies":
           [
             {
-              "packager":"panstamp",
+              "packager":"olimex",
               "name":"msp430-gcc",
               "version":"4.6.3"
             },
             {
-              "packager":"panstamp",
+              "packager":"olimex",
               "name":"java-bsl",
               "version":"1.0.0"
             },
             {
-              "packager":"panstamp",
+              "packager":"olimex",
               "name":"java-gdb",
               "version":"1.0.0"
             }
