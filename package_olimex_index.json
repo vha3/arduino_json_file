@@ -30,6 +30,9 @@
           [
             {
               "name":"Olimex Development Board"
+            },
+            {
+              "name":"Hunter Sprite"
             }
           ],
           "toolsDependencies":
